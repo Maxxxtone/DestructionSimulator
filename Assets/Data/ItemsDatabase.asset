@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a54b1367c472be4099ada547e4cc226, type: 3}
+  m_Name: ItemsDatabase
+  m_EditorClassIdentifier: 
+  Money: 0
+  Sensetivity: 2
+  SoundOn: 1
+  _weaponsItems:
+  - {fileID: 11400000, guid: de2c0ea6f2a08cf459e8494c1fa86ae5, type: 2}
+  - {fileID: 11400000, guid: b1b67b8f1d8f18843bca412617f2fd8b, type: 2}
+  - {fileID: 11400000, guid: 317d922bf2a6e874490d0a25766174ee, type: 2}
+  - {fileID: 11400000, guid: 15b3fc0cdbb62464e8b6189e9dcec9aa, type: 2}
+  - {fileID: 11400000, guid: 44e73a05c41903242b76f8462705d571, type: 2}
+  - {fileID: 11400000, guid: 3ec6241055e9f594c8228f7bcb82d6aa, type: 2}
+  _levelsItems:
+  - {fileID: 11400000, guid: 5cb4054a2d6eb1d48a26f950b25abfba, type: 2}
+  - {fileID: 11400000, guid: 65f0c991794fa7846963a32d9ded9a3b, type: 2}
+  - {fileID: 11400000, guid: 4fc8cceb150991942b4cccba19a67bad, type: 2}
+  - {fileID: 11400000, guid: 0bfda547d2746f0478b7f13602434472, type: 2}
